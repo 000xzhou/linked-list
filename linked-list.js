@@ -191,3 +191,8 @@ class LinkedList {
 }
 
 module.exports = LinkedList;
+
+
+//improvements
+//Add validation checks to ensure that indices provided to methods are within valid ranges.
+//Consider adding a method to retrieve the length of the linked list instead of directly accessing the length property.      
